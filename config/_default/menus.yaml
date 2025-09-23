@@ -1,0 +1,66 @@
+leftnav:
+- identifier: 78335934-2bd4-a003-414a-f977ff6e68ac
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 60c7734e-8dd8-9d1d-0917-0fe40ab08be1
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: cc3e769c-c951-7945-d81c-8ffd8494c81f
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: 2f49a77a-aaa5-c2ca-4151-3b39a5312219
+  name: Reading List
+  pageRef: /pages/readings/reading-list
+  parent: cc3e769c-c951-7945-d81c-8ffd8494c81f
+  weight: 40
+- identifier: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes/
+  weight: 50
+- identifier: c8d702da-21e3-79fe-1471-193591658a8d
+  name: Session 1
+  pageRef: /pages/lecture-notes/session-1
+  parent: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  weight: 60
+- identifier: eba48ac4-57d7-452a-93e1-6894e36d5ab1
+  name: Session 2
+  pageRef: /pages/lecture-notes/session-2
+  parent: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  weight: 70
+- identifier: 5604d91f-cf3b-ee41-021a-03793ec29991
+  name: Session 3
+  pageRef: /pages/lecture-notes/session-3
+  parent: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  weight: 80
+- identifier: 9ee0d2db-b9d7-401a-6937-cac748a33d64
+  name: Session 4
+  pageRef: /pages/lecture-notes/session-4
+  parent: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  weight: 90
+- identifier: 5f82db5a-d2a9-edcb-e016-853c543ee978
+  name: Session 6
+  pageRef: /pages/lecture-notes/session-6
+  parent: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  weight: 100
+- identifier: 1089de9e-8899-16e0-7aa9-af0de0db960e
+  name: Session 8
+  pageRef: /pages/lecture-notes/session-8
+  parent: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  weight: 110
+- identifier: 2122ce2a-8501-bb7e-41d1-16bdfa39cac9
+  name: Session 9
+  pageRef: /pages/lecture-notes/session-9
+  parent: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  weight: 120
+- identifier: 7b6aebdd-4722-9275-5c0f-4de9b63f7a33
+  name: Session 10
+  pageRef: /pages/lecture-notes/session-10
+  parent: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
+  weight: 130
+- identifier: ff1bf6ae-fb36-a8ac-68e6-8d87816d9547
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 140
