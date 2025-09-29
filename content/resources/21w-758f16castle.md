@@ -4,6 +4,8 @@ description: ''
 file: /courses/21w-758-genre-fiction-workshop-fantasy-fall-2016/bf32ec5bd2f4909f212dc60bfb5ff5fb_21W-758f16castle.jpg
 file_size: 28155
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

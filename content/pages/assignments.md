@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains details about the assignments for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Assignments
@@ -11,7 +13,7 @@ Every student will write two pieces of fiction. These may be short stories or ch
 
 Each major piece will be submitted to workshop and rewritten. Every student will be required to finish two pieces of fiction at the end of the class.
 
-**Writing resource:** {{% resource_link "1d80f769-f75e-413c-a710-ae415f2261d7" "8 Unstoppable Rules for Writing Killer Short Stories" %}}
+**Writing resource:** [8 Unstoppable Rules for Writing Killer Short Stories](http://io9.gizmodo.com/366707/8-unstoppable-rules-for-writing-killer-short-stories)
 
 Sample Student Work
 -------------------

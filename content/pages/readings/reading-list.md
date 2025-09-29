@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains a list of the course readings by topic and schedule.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: ''
@@ -63,7 +65,7 @@ Carl Jung and Joseph Campbell
 
 Campbell, Joseph. _The Hero with a Thousand Faces_. Commemorative edition with a new introduction by Clarissa Pinkola Estés, Ph.D. Princeton University Press, 2004, pp. 28–36; 227–228; 358–362. ISBN: 9780691119243.
 
-Butler-Bowden, Tom. "{{% resource_link "a41a704f-95bb-4834-af13-1519c30aef10" "The Archetypes and the Collective Unconscious" %}}." In _50 Psychology Classics: Who We Are, How We Think, What We Do: Insight and Inspiration from 50 Key Books_. Nicholas Brealey, 2006. ISBN: 9781857883862. \[Preview with {{% resource_link "d60af452-2900-4c27-80a2-2f33647b6968" "Google Books" %}}\]
+Butler-Bowden, Tom. "[The Archetypes and the Collective Unconscious](http://www.butler-bowdon.com/carl-jung---the-archetypes-and-the-collective-unconscious.html)." In _50 Psychology Classics: Who We Are, How We Think, What We Do: Insight and Inspiration from 50 Key Books_. Nicholas Brealey, 2006. ISBN: 9781857883862. \[Preview with [Google Books](https://books.google.com/books?id=wfjB9Blnk8kC&lpg=PP1&pg=PA168#v=onepage&q&f=false)\]
 
 
 {{< tdclose >}}
@@ -79,9 +81,9 @@ Campbell, Jung, and Gaimen
 {{< tdopen >}}
 
 
-Rauch, Stephan. _Neil Gaiman's The Sandman and Joseph Campbell: In Search of the Modern Myth_.Wildside Press, 2003, pp. 13–37. ISBN: 9781592242122. \[Preview with {{% resource_link "a7be4642-7dad-4f0c-ba88-af3ff218409a" "Google Books" %}}\]
+Rauch, Stephan. _Neil Gaiman's The Sandman and Joseph Campbell: In Search of the Modern Myth_.Wildside Press, 2003, pp. 13–37. ISBN: 9781592242122. \[Preview with [Google Books](https://books.google.com/books?id=4BY4M5zSl0QC&lpg=PA11&dq=carl%20jung's%20influence%20on%20joseph%20campbell&lr&pg=PA13#v=onepage&q&f=false)\]
 
-Gaiman, Neil. _The Sandman, Vol. 2: The Doll's House_. Reprint edition. Vertigo, 2010. ISBN: 9781401227999. \[Preview with {{% resource_link "8f93912a-4837-436e-9716-8075975e7710" "Google Books" %}}\]
+Gaiman, Neil. _The Sandman, Vol. 2: The Doll's House_. Reprint edition. Vertigo, 2010. ISBN: 9781401227999. \[Preview with [Google Books](https://books.google.com/books?id=9e_jAAAAQBAJ&lpg=PA1&dq=the%20sandman%20vol.%202&pg=PA1#v=onepage&q&f=false)\]
 
 
 {{< tdclose >}}
@@ -131,7 +133,7 @@ No assigned readings
 Alternative views of Mythos
 {{< tdclose >}}
 {{< tdopen >}}
-Bradley, Marion Zimmer. _The Mists of Avalon_. Del Ray, 1984. ISBN: 9780345350497. \[Preview with {{% resource_link "8108b98e-3057-46da-a9a6-85d8ee3eac8e" "Google Books" %}}\]
+Bradley, Marion Zimmer. _The Mists of Avalon_. Del Ray, 1984. ISBN: 9780345350497. \[Preview with [Google Books](https://books.google.com/books?id=hPHO7A8n_Q0C&lpg=PP1&dq=the%20mists%20of%20avalon&pg=PP1#v=onepage&q&f=false)\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,19 +149,19 @@ Listen to the following songs on YouTube:
 
 _Group 1:_
 
-*   Peter, Paul and Mary. "{{% resource_link "9a3ee746-32ae-45c9-9a75-24da0e2ab99d" "Golden Vanity" %}}."
-*   Pidgeon, Rebecca. "{{% resource_link "a5829362-c1be-44cd-a210-335edbfce34c" "The Four Marys" %}}."
-*   Sir Patrick Spens. "{{% resource_link "bd3e3b15-ef72-4c2f-98de-d01e540e7201" "Fairport Convention" %}}."
-*   Furey Brothers & Davey Arthur. "{{% resource_link "7587352a-c006-4293-ad36-82022937ddf2" "Gypsy Davey" %}}."
-*   Baez, Joan. "{{% resource_link "ec80ea75-a0f6-43c0-829c-9f821a6bc8eb" "Henry Martin" %}}."
+*   Peter, Paul and Mary. "[Golden Vanity](https://youtu.be/2mnTrFaYpF4)."
+*   Pidgeon, Rebecca. "[The Four Marys](https://youtu.be/576e7apG1QE)."
+*   Sir Patrick Spens. "[Fairport Convention](https://youtu.be/-n6rCeQdTGE)."
+*   Furey Brothers & Davey Arthur. "[Gypsy Davey](https://youtu.be/pHgDExGGgM0)."
+*   Baez, Joan. "[Henry Martin](https://youtu.be/pcrNySdHKDQ)."
 
 _Group 2:_
 
-*   Prior, Maddy. "{{% resource_link "b022d5d5-fc07-42d6-9993-d248b6db2ed5" "Hind Horn (Live)" %}}."
-*   Crooke, Raymond. "{{% resource_link "c256f09b-3d0d-45be-b6eb-fdde6a7b356b" "Hind Horn (Child #17) - Traditional Scottish" %}}."
-*   Steeleye Span. "{{% resource_link "20e2a3f3-7656-4a40-8739-7fe35ee3d08d" "Thomas the Rhymer (Live)" %}}."
-*   Crooke, Raymond. "{{% resource_link "61589daf-e751-4dc2-838b-b0e555550c43" "The Unquiet Grave (Child #78) - Traditional English" %}}."
-*   Atwater Donnelly Trio. "{{% resource_link "cb727a06-20f5-4d81-b2b9-367e13686424" "The Devil & The Farmer's Wife" %}}."
+*   Prior, Maddy. "[Hind Horn (Live)](https://youtu.be/mwBZoE3OApY)."
+*   Crooke, Raymond. "[Hind Horn (Child #17) - Traditional Scottish](https://youtu.be/nWealaEyIt0?list=PLB2D0D5657EA394E4)."
+*   Steeleye Span. "[Thomas the Rhymer (Live)](https://youtu.be/P6qv4uswKDA)."
+*   Crooke, Raymond. "[The Unquiet Grave (Child #78) - Traditional English](https://youtu.be/4r6cKrjCnLA?list=PLB2D0D5657EA394E4)."
+*   Atwater Donnelly Trio. "[The Devil & The Farmer's Wife](https://youtu.be/m5Wv1B-L9_g)."
 
 
 {{< tdclose >}}
@@ -265,7 +267,7 @@ No assigned readings
 Magic changes History
 {{< tdclose >}}
 {{< tdopen >}}
-Novik, Naomi. _His Majesty's Dragon (Temeraire, Book 1)_. Reissue edition. Del Ray, 2006. ISBN: 9780345481283. \[Preview with {{% resource_link "f4122276-0423-4a13-be7c-734f2d116697" "Google Books" %}}\]
+Novik, Naomi. _His Majesty's Dragon (Temeraire, Book 1)_. Reissue edition. Del Ray, 2006. ISBN: 9780345481283. \[Preview with [Google Books](https://books.google.com/books?id=ccWmlymJEq0C&lpg=PP1&dq=his%20majesty's%20dragon&pg=PP1#v=onepage&q&f=false)\]
 {{< tdclose >}}
 
 {{< trclose >}}

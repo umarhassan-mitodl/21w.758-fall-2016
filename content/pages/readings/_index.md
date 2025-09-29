@@ -17,9 +17,9 @@ Martin, George R. R. *Game of Thrones: A Song of Fire and Ice (Book 1)*. Bantam,
 
 Rowling, J. K. *Harry Potter (Books 1–7)*. Arthur A. Levine Books, 2009. ISBN: 9780545162074.
 
-You must be familiar with the {{% resource_link "925f0ab4-54dc-40bf-bc4c-880e5e7fd7c0" "Arthurian Legend" %}}. The TV show *Merlin* does *not count*. It does not give you the background you will need. I highly recommend *The Once and Future King* by T. H. White. Yes, it's a brick, but it's the best rendition of the Arthurian Legend in modern times.
+You must be familiar with the [Arthurian Legend](https://www.britannica.com/topic/Arthurian-legend). The TV show *Merlin* does *not count*. It does not give you the background you will need. I highly recommend *The Once and Future King* by T. H. White. Yes, it's a brick, but it's the best rendition of the Arthurian Legend in modern times.
 
-White, T. H. *The Once and Future King*. Reprint edition. Ace Books, 1987. ISBN: 9780441627400. \[Preview with {{% resource_link "6ba01ca3-47e4-4569-9efd-b8eff52beec7" "Google Books" %}}\]
+White, T. H. *The Once and Future King*. Reprint edition. Ace Books, 1987. ISBN: 9780441627400. \[Preview with [Google Books](https://books.google.com/books?id=WiqKox9nOgwC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
 ## For Class
 
@@ -35,11 +35,11 @@ Novik, Naomi. *His Majesty's Dragon (Temeraire, Book 1)*. Reissue edition. Del R
 
 First of a series, and you may end up hooked. Great historical fantasy—do look up some of the historical references!
 
-Bradley, Marion Zimmer. *The Mists of Avalon*. Del Ray, 1984. ISBN: 9780345350497. \[Preview with {{% resource_link "8108b98e-3057-46da-a9a6-85d8ee3eac8e" "Google Books" %}}\]
+Bradley, Marion Zimmer. *The Mists of Avalon*. Del Ray, 1984. ISBN: 9780345350497. \[Preview with [Google Books](https://books.google.com/books?id=hPHO7A8n_Q0C&lpg=PP1&dq=the%20mists%20of%20avalon&pg=PP1#v=onepage&q&f=false)\]
 
 Another brick of a book. Do *not* start this until you have read *The Once and Future King* or feel deeply grounded in the Arthurian cycle. Please note: Some people may be offended because the book can be deeply anti-Christian in some parts. This reveals both the prejudice of the author and the era in which it was written. Think of it from the context of what the author is trying to say about the origins of the Arthurian cycle.
 
-Gaiman, Neil. *The Sandman, Vol. 2: The Doll's House*. Reprint edition. Vertigo, 2010. ISBN: 9781401227999. \[Preview with {{% resource_link "8f93912a-4837-436e-9716-8075975e7710" "Google Books" %}}\]
+Gaiman, Neil. *The Sandman, Vol. 2: The Doll's House*. Reprint edition. Vertigo, 2010. ISBN: 9781401227999. \[Preview with [Google Books](https://books.google.com/books?id=9e_jAAAAQBAJ&lpg=PA1&dq=the%20sandman%20vol.%202&pg=PA1#v=onepage&q&f=false)\]
 
 Again, if you have not read this already, you may end up wanting to read all 12 volumes, which should not be a problem because these are graphic novels and relatively short.
 
@@ -49,6 +49,6 @@ This is not fiction. Well, kind of not. It’s meta-fiction about fantasy and is
 
 All of these books can be purchased used on line for extremely low prices, which I highly recommend. Several but not all are available in e-books. Fortunately, the thickest and heaviest books can be bought in this format, which could benefit your backpack and your back.
 
-I strongly recommend buying these used online. I also strongly suggest sharing copies of books, taking them out of libraries, and using the {{% resource_link "b7d12063-f1dc-4394-b51e-6b4c69013099" "MIT Science Fiction Society's" %}} collection to minimize your expenses.
+I strongly recommend buying these used online. I also strongly suggest sharing copies of books, taking them out of libraries, and using the [MIT Science Fiction Society's](http://mitsfs.mit.edu/) collection to minimize your expenses.
 
 *Please note: Both Mists of Avalon and Kushiel’s Dart and extremely long. They are wonderful books and I expect you will find them engrossing, but you will need to start reading them before the semester begins. We will be discussing Mists of Avalon first, so I strongly suggest you begin with that. Trust me, you will not be able to finish these books if you do not start them before Registration Day—and trust me, you will very much want to finish them!*

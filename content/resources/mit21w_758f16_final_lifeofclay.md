@@ -4,6 +4,8 @@ description: ''
 file: /courses/21w-758-genre-fiction-workshop-fantasy-fall-2016/f70339446cf44ec53239c026f129bc3a_MIT21W_758F16_Final_LifeofClay.pdf
 file_size: 548772
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

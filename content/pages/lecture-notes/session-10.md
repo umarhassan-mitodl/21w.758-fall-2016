@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains lecture notes for Session 10.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: ''
@@ -78,10 +80,10 @@ _References:_
 
 Vogt, A. E. van. _Silkie_. Second printing edition. Ace, 1969. ISBN: 9780441765027.
 
-{{% resource_link "fcf29d4c-b791-4bca-ac97-704b13ff14fe" "Hind Horn" %}}
+[Hind Horn](https://en.wikipedia.org/wiki/Hind_Horn)
 
-{{% resource_link "edfd8bb8-25be-45ce-8856-30e6b6cb4ede" "Thomas the Rhymer" %}}
+[Thomas the Rhymer](https://en.wikipedia.org/wiki/Thomas_the_Rhymer)
 
-{{% resource_link "82075166-b8df-4ab9-81e4-fe779a3936a0" "The Unquiet Grave" %}}
+[The Unquiet Grave](https://en.wikipedia.org/wiki/The_Unquiet_Grave)
 
-{{% resource_link "704f207f-1ef5-4ea8-a595-d9195762bb0f" "The Devil and the Farmer's Wife" %}}
+[The Devil and the Farmer's Wife](https://maxhunter.missouristate.edu/songinformation.aspx?ID=1439)
