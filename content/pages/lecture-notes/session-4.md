@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains lecture notes for Session 4.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: ''
@@ -32,7 +30,7 @@ Kingship is _Identity_
 
 The _true_ King must be _indentified_ and must _take on_ that identity willingly
 
-[Éminance grise](https://en.wikipedia.org/wiki/%C3%89minence_grise) - Richelieu
+{{% resource_link "733d0dbe-3e3a-4690-b6c2-cba3640f5397" "Éminance grise" %}} - Richelieu
 
 (The metaphor made concrete, after all)
 

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains details about course requirements and expectations.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Syllabus

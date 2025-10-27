@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains lecture notes for Session 9.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: ''
@@ -27,6 +25,6 @@ Carey & sexuality
 
 Garrett - alternate history
 
-*   [House of Plantagenet](https://en.wikipedia.org/wiki/House_of_Plantagenet) & Poland & Gaslight
+*   {{% resource_link "089187cc-11a6-4f54-8ff0-a4a9d1894388" "House of Plantagenet" %}} & Poland & Gaslight
 
 Exercises - images

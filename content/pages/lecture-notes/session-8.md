@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains lecture notes for Session 8.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: ''
@@ -79,14 +77,14 @@ Grimdark - medieval world
 
 Science Fantasy worlds
 
-*   McCaffery, Anne. _Dragonflight (Dragonriders of Pern - Volume 1)_. Ballantine Books, 1986. ISBN: 9780345335463. ([Suggested reading orders of books and stories in Anne McCaffery's Pern series (PDF)](http://pernhome.com/aim/2006-Pern-Reading-Order.pdf))
+*   McCaffery, Anne. _Dragonflight (Dragonriders of Pern - Volume 1)_. Ballantine Books, 1986. ISBN: 9780345335463. ({{% resource_link "4f572717-97dc-4c1b-a9a8-4ce928c617e2" "Suggested reading orders of books and stories in Anne McCaffery's Pern series (PDF)" %}})
     
-*   Bradley, Marion Zimmer. _Darkover Landfall_. RH Canada UK Distribution, 1987. ISBN: 9780099154105. ([Reading order of books in Marion Zimmer Bradley's Darkover series](https://www.librarything.com/series/Darkover%3A+Chronological+order))
+*   Bradley, Marion Zimmer. _Darkover Landfall_. RH Canada UK Distribution, 1987. ISBN: 9780099154105. ({{% resource_link "e4ae9eb7-aeb3-4259-8283-bf3c5edf7b71" "Reading order of books in Marion Zimmer Bradley's Darkover series" %}})
     
-*   Norton, Andre. _Witch World_. Ace, 1963. ([Publication order](https://www.librarything.com/series/Witch+World+-+publication+order) of the Witch World series; [Reading order](http://www.andre-norton-books.com/the-witch-world/the-sorcerer-s-conspectus/977-ww-reading-order#ro-2) recommended by fans)
+*   Norton, Andre. _Witch World_. Ace, 1963. ({{% resource_link "64874230-f090-44c3-97e1-75e3d2dd8481" "Publication order" %}} of the Witch World series; {{% resource_link "eb8c279e-708b-4b91-957b-da3cd2d9c984" "Reading order" %}} recommended by fans)
     
 
-[_Gaslight Victorian Fantasy_](http://www.rpgnow.com/product/117570/Gaslight-Victorian-Fantasy-2nd-Edition-Savage-Worlds-Edition). Battlefield Press, 2015. (Steampunk but fantasy)
+{{% resource_link "d267d204-e849-4f97-94b8-bf1b5f3978cd" "_Gaslight Victorian Fantasy_" %}}. Battlefield Press, 2015. (Steampunk but fantasy)
 
 Culture & aesthetic but play fast & loose with the history (Carey)
 
@@ -102,5 +100,5 @@ Research/lack of research
 
 Historical/non-medieval:
 
-*   [Guy Gavriel Kay](https://en.wikipedia.org/wiki/Guy_Gavriel_Kay)
-*   [Judith Tarr](https://en.wikipedia.org/wiki/Judith_Tarr)
+*   {{% resource_link "97661165-ecea-4b0a-a86f-88ada54752e3" "Guy Gavriel Kay" %}}
+*   {{% resource_link "b154a2ea-80a3-45ec-b64c-0643e4e58efa" "Judith Tarr" %}}
